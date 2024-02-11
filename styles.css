@@ -1,0 +1,18 @@
+body{
+    margin: 20px, 0px;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: linear-gradient(black, darkslategrey);
+    color: wheat;
+}
+
+a{
+    color: darkgray;
+}
+
+#developer-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+
+}
